@@ -1,0 +1,14 @@
+{
+  "name": "jquerytutorial",
+  "version": "1.0.0",
+  "description": "Batch 2 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.6"
+  }
+}
